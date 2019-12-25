@@ -1,10 +1,10 @@
-package eccprr; 
+package scholarships; 
 import java.util.Scanner;
 import java.util.ArrayList;
 
 
 
-public class Eccprr {
+public class Scholarships {
 
     
     public static void main(String[] args) {
